@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "142031026479",
+    "project_id": "my-cartz",
+    "storage_bucket": "my-cartz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142031026479:android:43951a7f44d19d1538c9da",
+        "android_client_info": {
+          "package_name": "com.example.clgapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "142031026479-6misqf30sivnap58fhug3a3eipd3s77u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.clgapp",
+            "certificate_hash": "20ae1c478daedc87f30f3de6b76031f13989cffc"
+          }
+        },
+        {
+          "client_id": "142031026479-24pe8560rr4v6bncmulqqvug7fupnn95.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCz8IclWCqjv1NR9WbBm1bMtTnaadONGKg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "142031026479-24pe8560rr4v6bncmulqqvug7fupnn95.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
